@@ -1,5 +1,3 @@
-# Analyze-Hacker-News-Trends
-
 <h1>Analyze Hacker News Trends | Codecademy.com Project </h1>
 
 ## Overview
